@@ -23,9 +23,9 @@ With the maturity and rising number of deep learning works in different fields, 
 ### 1. Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision.
 * Object Detection:
-* [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) 
-* [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, published, 2019) 
-* [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, published, 2019) 
+  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) 
+  * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, published, 2019) 
+  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, published, 2019) 
 * Image Segmentation: 
   * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, under review, 2020)
   * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018, published)
@@ -52,7 +52,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
 
 ### NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
-
+* Sentiment Analysis:
+  * [Deep learning for sentiment analysis: A survey](Deep learning for sentiment analysis: A survey) (Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
 
 ### Speech Recognition Related Surveys 
 Speech recognition have also seen.
