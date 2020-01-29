@@ -15,7 +15,7 @@ With the maturity and rising number of deep learning works in different fields, 
 [NLP Related Surveys](#NLP)  
 [Speech Recognition Related Surveys](#SR)  
 [Healthcare Related Surveys](#HC)
-[Other Areas](#Other)
+[Other Areas](#Ot)
 .
 <a name="CV"/>
 ### Computer Vision Related Surveys
@@ -29,6 +29,6 @@ Speech recognition have also seen.
 <a name="HC"/>
 ### Healthcare Related Surveys
 Deep learning models 
-<a name="Other"/>
+<a name="Ot"/>
 ### Other Areas
 Deep learning models 
