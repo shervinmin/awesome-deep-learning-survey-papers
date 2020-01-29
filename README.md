@@ -16,6 +16,7 @@ With the maturity and rising number of deep learning works in different fields, 
 ...snip...    
 <a name="headers"/>
 ## Headers
+...snip...  
 <a name="emphasis"/>
 ## Emphasis
 
