@@ -25,16 +25,16 @@ Here we provide a list of surveys for deep learning applications in computer vis
 ### NLP Related Surveys <br/>
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 <br/>
-<name="sr"/>
+<c name="sr"/>
 ### Speech Recognition Related Surveys <br/>
 Speech recognition have also seen.
 <br/>
-<name="hc"/>
+<d name="hc"/>
 ### Healthcare Related Surveys <br/>
 Deep learning models 
 <br/>
 * Biometrics Recognition:
   * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (IJCV, under review, 2019)
-<name="ot"/>
+<e name="ot"/>
 ### Other Areas Survey <br/>
 Deep learning models have 
