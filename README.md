@@ -19,8 +19,8 @@ With the maturity and rising number of deep learning works in different fields, 
 <a name="CV"/>
 ### Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision. <br/>
-Object Detection: 
-* [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, Published)<br/>
+* Object Detection: 
+[A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, Published)<br/>
 <a name="NLP"/>
 ### NLP Related Surveys
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net.
