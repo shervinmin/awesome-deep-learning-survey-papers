@@ -30,8 +30,8 @@ Speech recognition have also seen.
 <a name="hc"/>
 ### Healthcare Related Surveys
 Deep learning models 
-* Recommender Systems:
-  * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
+1. Recommender Systems:
+  1.1 [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
 <a name="ot"/>
 ### Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
