@@ -24,7 +24,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, published, 2019) <br/>
   * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, published, 2019)<br/>
 * Image Segmentation: <br/>
-[A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) <br/>
+ * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, under review, 2020) <br/>
 <a name="NLP"/>
 ### NLP Related Surveys
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net.
