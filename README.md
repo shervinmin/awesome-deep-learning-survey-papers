@@ -23,7 +23,7 @@ Here we list some of .
 ### NLP Related Surveys
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net.
 <a name="SR"/>
-### [Speech Recognition Related Surveys]
+### Speech Recognition Related Surveys
 Speech recognition have also seen.
 <a name="HC"/>
 ### Healthcare Related Surveys
