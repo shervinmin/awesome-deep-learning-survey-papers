@@ -20,9 +20,9 @@ With the maturity and rising number of deep learning works in different fields, 
 ### Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision. <br/>
 * Object Detection:  <br/>
-  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, 2019, published) <br/>
+  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) <br/>
   * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, published, 2019) <br/>
-  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019, Published)<br/>
+  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, published, 2019)<br/>
 * Image Segmentation: <br/>
 [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) <br/>
 <a name="NLP"/>
