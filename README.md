@@ -36,5 +36,5 @@ Deep learning models
 * Biometrics Recognition:
   * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (IJCV, under review, 2019)
 <a name="ot"/>
-### Other Areas Survey
-Deep learning models have 
+### Other Areas Survey <br/>
+Deep learning models have
