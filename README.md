@@ -68,11 +68,20 @@ Deep learning models
 ### 5. Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
 * Big Data:
-  * [A survey on deep learning for big data] (https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) ( Information Fusion, published, 2018)
+  * [A survey on deep learning for big data](https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) (Information Fusion, published, 2018)
 * Recommender Systems:
-  * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) ( ACM Computing Surveys, published, 2019)
+  * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) (ACM Computing Surveys, published, 2019)
 * Networking:
-  * [Deep learning in mobile and wireless networking: A surve](https://arxiv.org/pdf/1803.04311.pdf) ( IEEE Communications Surveys, published, 2019)
+  * [Deep learning in mobile and wireless networking: A surve](https://arxiv.org/pdf/1803.04311.pdf) (IEEE Communications Surveys, published, 2019)
+* IoT Big Data:
+  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
+* IoT Big Data:
+  * [Deep learning for IoT big data and streaming analytics: A survey](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
+* IoT Big Data:
+  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
+* IoT Big Data:
+  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Cluster Computing, published, 2017)
+
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, published, 2018) 
 * Agriculture:
