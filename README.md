@@ -31,11 +31,11 @@ Here we provide a list of surveys for deep learning applications in computer vis
 ### 2. NLP Related Surveys
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net.
 <a name="SR"/>
-### Speech Recognition Related Surveys
+### 3. Speech Recognition Related Surveys
 Speech recognition have also seen.
 <a name="HC"/>
-### Healthcare Related Surveys
+### 4. Healthcare Related Surveys
 Deep learning models 
 <a name="HC"/>
-### Other Areas
+### 5. Other Areas
 Deep learning models 
