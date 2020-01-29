@@ -55,8 +55,6 @@ Speech recognition have also seen.
 <a name="HC"/>
 ### Healthcare Related Surveys
 Deep learning models 
-* Object Detection:
-  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) <br/>
 <a name="Ot"/>
 ### Other Areas Survey
 Deep learning models have 
