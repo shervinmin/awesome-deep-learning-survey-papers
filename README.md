@@ -33,5 +33,7 @@ Deep learning models
 <a name="ot"/>
 ### Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
+* Recommender Systems:
+  * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) ( ACM Computing Surveys, published, 2019)
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, published, 2018) 
