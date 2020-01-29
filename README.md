@@ -14,8 +14,7 @@ With the maturity and rising number of deep learning works in different fields, 
 [Computer Vision Related Surveys](#CV)  
 [NLP Related Surveys](#NLP)  
 [Speech Recognition Related Surveys](#SR)  
-[Healthcare Related Surveys](#HC)
-[Healthcare Related Surveysss](#HCs)
+[Healthcare Related Surveys](#HC) <br/>
 [Other Areas Surveys](#Ot)
 <br/> <br/>
 <a name="CV"/>
