@@ -30,7 +30,7 @@ NLP tasks have seen a great progress over the past few years with the help of de
 Speech recognition have also seen.
 <br/>
 <a name="hc"/>
-### Healthcare Related Surveys 
+### Healthcare Related Surveys
 Deep learning models 
 <br/>
 * Biometrics Recognition:
