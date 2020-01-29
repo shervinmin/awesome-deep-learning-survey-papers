@@ -29,6 +29,15 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018, published) <br/>
 * Medical Image Segmentation:
   * [Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges](https://link.springer.com/article/10.1007/s10278-019-00227-x) (Journal of Digital Imaging, published, 2018) <br/>
+  * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Array Elsevier, published, 2019) <br/>
+  * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, published, 2018) <br/>
+* Image Super-Resolution:
+  * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (Arxiv, 2019)
+* Face Recognition:
+  * [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655.pdf) (Arxiv, 2019)
+* Facial Expression Recognition:
+  * [Deep facial expression recognition: A survey](https://arxiv.org/pdf/1804.08348.pdf) (Arxiv, 2019)
+* GANs:
 <a name="NLP"/>
 ### NLP Related Surveys
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net.
