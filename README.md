@@ -29,6 +29,6 @@ Speech recognition have also seen.
 <a name="HC"/>
 ### Healthcare Related Surveys
 Deep learning models 
-<a name="HC"/>
+<a name="other"/>
 ### Other Areas
 Deep learning models 
