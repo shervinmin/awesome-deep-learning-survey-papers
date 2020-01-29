@@ -44,7 +44,6 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Going deeper into action recognition: A survey](https://arxiv.org/pdf/1605.04988.pdf) (Image and vision computing, 2017)
 * Human Motion Recognition:
   * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
-
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019)
 <a name="NLP"/>
@@ -56,6 +55,8 @@ Speech recognition have also seen.
 <a name="HC"/>
 ### Healthcare Related Surveys
 Deep learning models 
+* Object Detection:
+  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) <br/>
 <a name="Ot"/>
 ### Other Areas Survey
 Deep learning models have 
