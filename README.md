@@ -18,7 +18,7 @@ With the maturity and rising number of deep learning works in different fields, 
 [Healthcare Related Surveys](#hc) <br/>
 [Other Areas Surveys](#ot)
 <br/>
-<a name="cv"/>
+[comment]: <> <a name="cv"/>
 ### Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision.
 [comment]: <> <a name="nlp"/>
