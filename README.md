@@ -22,19 +22,19 @@ With the maturity and rising number of deep learning works in different fields, 
 ### Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision.
 <b name="nlp"/>
-### NLP Related Surveys <br/>
+### NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 <br/>
 <c name="sr"/>
-### Speech Recognition Related Surveys <br/>
+### Speech Recognition Related Surveys 
 Speech recognition have also seen.
 <br/>
 <d name="hc"/>
-### Healthcare Related Surveys <br/>
+### Healthcare Related Surveys 
 Deep learning models 
 <br/>
 * Biometrics Recognition:
   * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (IJCV, under review, 2019)
 <e name="ot"/>
-### Other Areas Survey <br/>
+### Other Areas Survey
 Deep learning models have 
