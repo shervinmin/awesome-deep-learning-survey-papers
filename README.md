@@ -75,13 +75,12 @@ Deep learning models have been used in various other fields in recent years. Som
   * [Deep learning in mobile and wireless networking: A surve](https://arxiv.org/pdf/1803.04311.pdf) (IEEE Communications Surveys, published, 2019)
 * IoT Big Data:
   * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
-* IoT Big Data:
-  * [Deep learning for IoT big data and streaming analytics: A survey](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
+* Anomly Detection:
+  * [A survey of deep learning-based network anomaly detection](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Cluster Computing, published, 2017)
 * IoT Big Data:
   * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
 * IoT Big Data:
   * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Cluster Computing, published, 2017)
-
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, published, 2018) 
 * Agriculture:
