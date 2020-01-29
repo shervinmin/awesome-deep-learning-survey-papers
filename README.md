@@ -12,11 +12,11 @@ With the maturity and rising number of deep learning works in different fields, 
 
 # Table of Contents  
 
-* [Computer Vision Related Surveys](#cv)  
-* [NLP Related Surveys](#nlp)  
-* [Speech Recognition Related Surveys](#sr)  
-* [Healthcare Related Surveys](#hc)
-* [Other Areas Surveys](#ot)
+[Computer Vision Related Surveys](#cv)  
+[NLP Related Surveys](#nlp)  
+[Speech Recognition Related Surveys](#sr)  
+[Healthcare Related Surveys](#hc)
+[Other Areas Surveys](#ot)
 <br/>
 <a name="cv"/>
 ### Computer Vision Related Surveys
