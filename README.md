@@ -31,4 +31,4 @@ Speech recognition have also seen.
 Deep learning models 
 <a name="Ot"/>
 ### Other Areas Survey
-Deep learning models 
+Deep learning models have 
