@@ -50,23 +50,25 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
 <br/>
 
-### NLP Related Surveys 
+### 2. NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 * Sentiment Analysis:
   * [Deep learning for sentiment analysis: A survey](Deep learning for sentiment analysis: A survey) (Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
 
-### Speech Recognition Related Surveys 
+### 3. Speech Recognition Related Surveys 
 Speech recognition have also seen.
 
 
-### Healthcare Related Surveys
+### 4. Healthcare Related Surveys
 Deep learning models 
 1. Recommender Systems:
   1.1 [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
 
 
-### Other Areas Surveys <br/>
+### 5. Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
+* Big Data:
+  * [A survey on deep learning for big data] (https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) ( Information Fusion, published, 2018)
 * Recommender Systems:
   * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) ( ACM Computing Surveys, published, 2019)
 * Networking:
