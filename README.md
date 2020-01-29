@@ -15,7 +15,7 @@ With the maturity and rising number of deep learning works in different fields, 
 [NLP Related Surveys](#NLP)  
 [Speech Recognition Related Surveys](#SR)  
 [Healthcare Related Surveys](#HC)  
-chi  
+   
 <a name="CV"/>
 ### Computer Vision Related Surveys
 Here we list some of .  
