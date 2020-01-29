@@ -18,7 +18,7 @@ With the maturity and rising number of deep learning works in different fields, 
 .
 <a name="CV"/>
 ### Computer Vision Related Surveys
-Here we list some of .  
+Here we provide a list of surveys for deep learning applications in computer vision.
 [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, Published)
 <a name="NLP"/>
 ### NLP Related Surveys
