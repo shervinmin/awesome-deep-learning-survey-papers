@@ -52,9 +52,9 @@ NLP tasks have seen a great progress over the past few years with the help of de
 <a name="sr"/>
 ### Speech Recognition Related Surveys
 Speech recognition have also seen.
-<a name="hc"/>
+<name="hc"/>
 ### Healthcare Related Surveys
 Deep learning models 
-<a name="ot"/>
+<name="ot"/>
 ### Other Areas Survey
 Deep learning models have 
