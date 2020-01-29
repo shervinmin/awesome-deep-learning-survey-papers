@@ -11,14 +11,14 @@ With the maturity and rising number of deep learning works in different fields, 
 
 
 ## Table of Contents  
-[1- Computer Vision Related Surveys](#CV)  
+[Computer Vision Related Surveys](#CV)  
 [NLP Related Surveys](#NLP)  
 [Speech Recognition Related Surveys](#SR)  
 [Healthcare Related Surveys](#HC)
 [Other Areas](#other)
 .
 <a name="CV"/>
-### 1- Computer Vision Related Surveys
+### Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision. <br/>
 * Object Detection:  <br/>
   * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) <br/>
