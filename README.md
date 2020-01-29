@@ -60,6 +60,8 @@ Speech recognition have also seen.
 ### Healthcare Related Surveys <br/>
 Deep learning models 
 <br/>
+* Biometrics Recognition:
+  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (IJCV, under review, 2019)
 <name="#ot"/>
 ### Other Areas Survey <br/>
 Deep learning models have 
