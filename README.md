@@ -17,7 +17,7 @@ With the maturity and rising number of deep learning works in different fields, 
 [Healthcare Related Surveys](#hc) <br/>
 [Other Areas Surveys](#ot)
 <br/> <br/>
-<a name="cv"/>
+<name="cv"/>
 ### Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision.
 * Object Detection:
@@ -46,7 +46,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
-<a name="nlp"/>
+<name="nlp"/>
 ## NLP Related Surveys
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net.
 <a name="sr"/>
