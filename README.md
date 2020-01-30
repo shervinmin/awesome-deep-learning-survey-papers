@@ -55,7 +55,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
 ### 2. NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 * Sentiment Analysis:
-  * [Deep learning for sentiment analysis: A survey])(https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)(Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
+  * [Deep learning for sentiment analysis: A survey](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)(Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
 
 ### 3. Speech Recognition Related Surveys 
 Speech recognition have also seen.
