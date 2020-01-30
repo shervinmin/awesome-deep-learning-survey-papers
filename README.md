@@ -77,11 +77,9 @@ Deep learning models have been used in various other fields in recent years. Som
   * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
 * Anomly Detection:
   * [A survey of deep learning-based network anomaly detection](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Cluster Computing, published, 2017)
-* IoT Big Data:
-  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
-* IoT Big Data:
-  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Cluster Computing, published, 2017)
-* Agriculture:
-  * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, published, 2018) 
+* Remote sensing:
+  * [Comprehensive survey of deep learning in remote sensing: theories, tools, and challenges for the community](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-11/issue-04/042609/Comprehensive-survey-of-deep-learning-in-remote-sensing--theories/10.1117/1.JRS.11.042609.full?sessionGUID=eb3317d0-d639-c4d8-a52b-0c0ec58493e0&webSyncID=a982a00b-dac6-2568-3bb6-383dd8bb4517&sessionGUID=e0c58d1c-a696-1478-2588-a8a194890dcc) (Journal of Applied Remote Sensing, published, 2017)
+* Graphs:
+  * [Deep learning on graphs: A survey](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82) (Arxiv, 2018)
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, published, 2018) 
