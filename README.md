@@ -46,6 +46,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Going deeper into action recognition: A survey](https://arxiv.org/pdf/1605.04988.pdf) (Image and vision computing, 2017)
 * Human Motion Recognition:
   * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
+* Image Captioning:
+  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, published, 2019) 
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
 <br/>
@@ -61,8 +63,10 @@ Speech recognition have also seen.
 
 ### 4. Healthcare Related Surveys
 Deep learning models 
-1. Recommender Systems:
-  1.1 [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
+* Recommender Systems:
+  * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
+* Bioinformatics:
+  * [A survey of data mining and deep learning in bioinformatics](https://link.springer.com/article/10.1007/s10916-018-1003-9) (Journal of medical systems, 2018)
 
 
 ### 5. Other Areas Surveys <br/>
@@ -79,6 +83,8 @@ Deep learning models have been used in various other fields in recent years. Som
   * [A survey of deep learning-based network anomaly detection](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Cluster Computing, published, 2017)
 * Remote sensing:
   * [Comprehensive survey of deep learning in remote sensing: theories, tools, and challenges for the community](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-11/issue-04/042609/Comprehensive-survey-of-deep-learning-in-remote-sensing--theories/10.1117/1.JRS.11.042609.full?sessionGUID=eb3317d0-d639-c4d8-a52b-0c0ec58493e0&webSyncID=a982a00b-dac6-2568-3bb6-383dd8bb4517&sessionGUID=e0c58d1c-a696-1478-2588-a8a194890dcc) (Journal of Applied Remote Sensing, published, 2017)
+* Mobile Multimedia:
+  * [Deep learning for mobile multimedia: A survey](https://www.researchgate.net/profile/Minh_Dao11/publication/318081382_Deep_Learning_for_Mobile_Multimedia_A_Survey/links/59e3f9bd0f7e9b97fbeb0989/Deep-Learning-for-Mobile-Multimedia-A-Survey.pdf) ( ACM Transactions on Multimedia Computing, Communications, and Applications, 2017)
 * Graphs:
   * [Deep learning on graphs: A survey](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82) (Arxiv, 2018)
 * Agriculture:
