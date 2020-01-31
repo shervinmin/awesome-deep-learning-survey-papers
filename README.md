@@ -60,6 +60,9 @@ NLP tasks have seen a great progress over the past few years with the help of de
   * [Neural approaches to conversational AI](https://www.nowpublishers.com/article/DownloadSummary/INR-074) (Foundations and Trends® in Information Retrieval, 2019) 
   * [A survey of natural language generation techniques with a focus on dialogue systems-past, present and future directions](https://arxiv.org/pdf/1812.02303.pdf) (Arxiv, 2018) 
   * [A survey on dialogue systems: Recent advances and new frontiers](https://arxiv.org/pdf/1711.01731.pdf) (Acm Sigkdd Explorations Newsletter, 2017)
+* Embedding:
+  * [Word embeddings: A survey](https://arxiv.org/pdf/1901.09069.pdf) (Arxiv, 2019)  
+  * [https://arxiv.org/pdf/1611.06792.pdf](https://arxiv.org/pdf/1611.06792.pdf) (Arxiv, 2016) 
 * Natural Language Generation:
   * [Survey of the state of the art in natural language generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/download/11173/26378) (Journal of Artificial Intelligence Research, 2018) 
 * Text Summarization:
@@ -89,10 +92,12 @@ Deep learning models
 
 ### 5. Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
-* Big Data:
-  * [A survey on deep learning for big data](https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) (Information Fusion, 2018)
+* Reinforcement Learning:
+  * [Deep reinforcement learning: An overview](https://arxiv.org/abs/1701.07274) (Arxiv, 2017)
 * Recommender Systems:
   * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) (ACM Computing Surveys, 2019)
+* Big Data:
+  * [A survey on deep learning for big data](https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) (Information Fusion, 2018)
 * Networking:
   * [Deep learning in mobile and wireless networking: A surve](https://arxiv.org/pdf/1803.04311.pdf) (IEEE Communications Surveys, 2019)
 * IoT Big Data:
