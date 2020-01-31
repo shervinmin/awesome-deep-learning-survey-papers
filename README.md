@@ -65,7 +65,7 @@ NLP tasks have seen a great progress over the past few years with the help of de
 * Answer Selection:
   * [A review on deep learning techniques applied to answer selection](https://www.aclweb.org/anthology/C18-1181.pdf) (Proceedings of the 27th International Conference on Computational Linguistics, 2018) 
   * NLP based Financial Forecasting:
-  * [Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y) (Artificial Intelligence Review, 2018) 
+  * [Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y) (Artificial Intelligence Review, 2018) <br/>
 
 ### 3. Speech Recognition Related Surveys 
 Speech recognition have also seen.
