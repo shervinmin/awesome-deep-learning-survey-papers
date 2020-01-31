@@ -97,7 +97,6 @@ Deep learning models have been used in various other fields in recent years. Som
   * [Deep reinforcement learning: A brief survey](https://discovery.ucl.ac.uk/id/eprint/10083557/1/1708.05866v2.pdf) (IEEE Signal Processing Magazine, 2017)
 * Recommender Systems:
   * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) (ACM Computing Surveys, 2019)
-
 * Big Data:
   * [A survey on deep learning for big data](https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) (Information Fusion, 2018)
 * Networking:
