@@ -51,6 +51,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
 <br/>
 
+
 ### 2. NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 * General NLP:
