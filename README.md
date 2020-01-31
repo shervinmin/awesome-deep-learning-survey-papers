@@ -62,7 +62,7 @@ NLP tasks have seen a great progress over the past few years with the help of de
   * [A survey on dialogue systems: Recent advances and new frontiers](https://arxiv.org/pdf/1711.01731.pdf) (Acm Sigkdd Explorations Newsletter, 2017)
 * Embedding:
   * [Word embeddings: A survey](https://arxiv.org/pdf/1901.09069.pdf) (Arxiv, 2019)  
-  * [https://arxiv.org/pdf/1611.06792.pdf](https://arxiv.org/pdf/1611.06792.pdf) (Arxiv, 2016) 
+  * [Neural Information Retrieval: A Literature Review](https://arxiv.org/pdf/1611.06792.pdf) (Arxiv, 2016) 
 * Natural Language Generation:
   * [Survey of the state of the art in natural language generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/download/11173/26378) (Journal of Artificial Intelligence Research, 2018) 
 * Text Summarization:
