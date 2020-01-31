@@ -98,10 +98,10 @@ Deep learning models
 * Microscopy Image Analysis:
   * [Deep learning in microscopy image analysis: A survey](https://ieeexplore.ieee.org/abstract/document/8118310) (EEE Transactions on Neural Networks and Learning Systems, 2017)
 * Radialogy:
-  *[Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI](https://arxiv.org/pdf/1802.08717.pdf) (Journal of magnetic resonance imaging, 2019) <br/>
+  * [Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI](https://arxiv.org/pdf/1802.08717.pdf) (Journal of magnetic resonance imaging, 2019) <br/>
 
 
-### 4. Other Areas Surveys <br/>
+### 4. Other Areas Surveys
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
 * Reinforcement Learning:
   * [Deep reinforcement learning: An overview](https://arxiv.org/abs/1701.07274) (Arxiv, 2017)
