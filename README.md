@@ -84,6 +84,19 @@ Deep learning models
   * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017)
 * Bioinformatics:
   * [A survey of data mining and deep learning in bioinformatics](https://link.springer.com/article/10.1007/s10916-018-1003-9) (Journal of medical systems, 2018)
+* Medical Imaging (MRI):
+  * [An overview of deep learning in medical imaging focusing on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181) (Zeitschrift für Medizinische Physik, 2019)
+* Radiotherapy:
+  * [Survey on deep learning for radiotherapy](https://www.sciencedirect.com/science/article/abs/pii/S0010482518301318) (Computers in biology and medicine, 2018)
+* Pharmacogenomics:
+  * [Deep learning in pharmacogenomics: from gene regulation to patient stratification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022084/) (Future Medicine, 2019)
+* Medical Image Analysis:
+  * [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135) (Medical image analysis, 2017)
+* Cancer Detection and Diagnosis:
+  * [Deep learning for image-based cancer detection and diagnosis− a survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320318301845) (Pattern Recognition, 2018)
+* Microscopy Image Analysis:
+  * [Deep learning in microscopy image analysis: A survey](https://ieeexplore.ieee.org/abstract/document/8118310) (EEE Transactions on Neural Networks and Learning Systems, 2017)
+
 
 
 ### 4. Other Areas Surveys <br/>
