@@ -81,7 +81,7 @@ NLP tasks have seen a great progress over the past few years with the help of de
 ### 3. Healthcare Related Surveys
 Deep learning models 
 * Health-Record Analysis:
-  * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
+  * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017)
 * Bioinformatics:
   * [A survey of data mining and deep learning in bioinformatics](https://link.springer.com/article/10.1007/s10916-018-1003-9) (Journal of medical systems, 2018)
 
