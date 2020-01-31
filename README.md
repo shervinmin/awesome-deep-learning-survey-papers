@@ -23,19 +23,19 @@ With the maturity and rising number of deep learning works in different fields, 
 ### 1. Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision.
 * Object Detection:
-  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, published, 2019) 
-  * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, published, 2019) 
-  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, published, 2019) 
+  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, 2019) 
+  * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, 2019) 
+  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019) 
 * Image Segmentation: 
   * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, under review, 2020)
-  * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018, published)
+  * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018)
 * Medical Image Segmentation:
-  * [Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges](https://link.springer.com/article/10.1007/s10278-019-00227-x) (Journal of Digital Imaging, published, 2018) 
-  * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Elsevier Array, published, 2019)
-  * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, published, 2018)
+  * [Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges](https://link.springer.com/article/10.1007/s10278-019-00227-x) (Journal of Digital Imaging, 2018) 
+  * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Elsevier Array, 2019)
+  * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, 2018)
 * Biometrics Recognition:
   * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (IJCV, under review, 2019)
-  * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, published, 2018)
+  * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
 * Image Super-Resolution:
   * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (Arxiv, 2019)
 * Face Recognition:
@@ -47,7 +47,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
 * Human Motion Recognition:
   * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
 * Image Captioning:
-  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, published, 2019) 
+  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, 2019) 
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
 <br/>
@@ -72,17 +72,17 @@ Deep learning models
 ### 5. Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
 * Big Data:
-  * [A survey on deep learning for big data](https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) (Information Fusion, published, 2018)
+  * [A survey on deep learning for big data](https://fardapaper.ir/mohavaha/uploads/2018/07/Fardapaper-A-survey-on-deep-learning-for-big-data.pdf) (Information Fusion, 2018)
 * Recommender Systems:
-  * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) (ACM Computing Surveys, published, 2019)
+  * [Deep learning based recommender system: A survey and new perspectives](https://arxiv.org/pdf/1707.07435.pdf) (ACM Computing Surveys, 2019)
 * Networking:
-  * [Deep learning in mobile and wireless networking: A surve](https://arxiv.org/pdf/1803.04311.pdf) (IEEE Communications Surveys, published, 2019)
+  * [Deep learning in mobile and wireless networking: A surve](https://arxiv.org/pdf/1803.04311.pdf) (IEEE Communications Surveys, 2019)
 * IoT Big Data:
-  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., published, 2019)
+  * [Deep learning for IoT big data and streaming analytics: A survey](https://arxiv.org/pdf/1712.04301;Deep) (Deep learning for IoT big data and streaming analytics: A survey., 2019)
 * Anomly Detection:
-  * [A survey of deep learning-based network anomaly detection](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Cluster Computing, published, 2017)
+  * [A survey of deep learning-based network anomaly detection](https://link.springer.com/article/10.1007/s10586-017-1117-8) (Cluster Computing, 2017)
 * Remote sensing:
-  * [Comprehensive survey of deep learning in remote sensing: theories, tools, and challenges for the community](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-11/issue-04/042609/Comprehensive-survey-of-deep-learning-in-remote-sensing--theories/10.1117/1.JRS.11.042609.full?sessionGUID=eb3317d0-d639-c4d8-a52b-0c0ec58493e0&webSyncID=a982a00b-dac6-2568-3bb6-383dd8bb4517&sessionGUID=e0c58d1c-a696-1478-2588-a8a194890dcc) (Journal of Applied Remote Sensing, published, 2017)
+  * [Comprehensive survey of deep learning in remote sensing: theories, tools, and challenges for the community](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-11/issue-04/042609/Comprehensive-survey-of-deep-learning-in-remote-sensing--theories/10.1117/1.JRS.11.042609.full?sessionGUID=eb3317d0-d639-c4d8-a52b-0c0ec58493e0&webSyncID=a982a00b-dac6-2568-3bb6-383dd8bb4517&sessionGUID=e0c58d1c-a696-1478-2588-a8a194890dcc) (Journal of Applied Remote Sensing, 2017)
 * Mobile Multimedia:
   * [Deep learning for mobile multimedia: A survey](https://www.researchgate.net/profile/Minh_Dao11/publication/318081382_Deep_Learning_for_Mobile_Multimedia_A_Survey/links/59e3f9bd0f7e9b97fbeb0989/Deep-Learning-for-Mobile-Multimedia-A-Survey.pdf) ( ACM Transactions on Multimedia Computing, Communications, and Applications, 2017)
 * Graphs:
@@ -90,4 +90,4 @@ Deep learning models have been used in various other fields in recent years. Som
 * Multimodal Learning:
   * [Deep multimodal learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/abstract/document/8103116/) (IEEE Signal Processing Magazine, 2017)
 * Agriculture:
-  * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, published, 2018) 
+  * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, 2018) 
