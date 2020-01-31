@@ -81,6 +81,8 @@ NLP tasks have seen a great progress over the past few years with the help of de
 
 ### 3. Healthcare Related Surveys
 Deep learning models 
+* Medical Image Analysis:
+  * [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135) (Medical image analysis, 2017)
 * Health-Record Analysis:
   * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017)
 * Bioinformatics:
@@ -91,13 +93,12 @@ Deep learning models
   * [Survey on deep learning for radiotherapy](https://www.sciencedirect.com/science/article/abs/pii/S0010482518301318) (Computers in biology and medicine, 2018)
 * Pharmacogenomics:
   * [Deep learning in pharmacogenomics: from gene regulation to patient stratification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6022084/) (Future Medicine, 2019)
-* Medical Image Analysis:
-  * [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135) (Medical image analysis, 2017)
 * Cancer Detection and Diagnosis:
   * [Deep learning for image-based cancer detection and diagnosis− a survey](https://www.sciencedirect.com/science/article/abs/pii/S0031320318301845) (Pattern Recognition, 2018)
 * Microscopy Image Analysis:
   * [Deep learning in microscopy image analysis: A survey](https://ieeexplore.ieee.org/abstract/document/8118310) (EEE Transactions on Neural Networks and Learning Systems, 2017)
-
+* Radialogy:
+  *[Deep learning in radiology: An overview of the concepts and a survey of the state of the art with focus on MRI](https://arxiv.org/pdf/1802.08717.pdf) (Journal of magnetic resonance imaging, 2019)
 
 
 ### 4. Other Areas Surveys <br/>
