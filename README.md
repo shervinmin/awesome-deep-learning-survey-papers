@@ -56,18 +56,14 @@ Here we provide a list of surveys for deep learning applications in computer vis
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 * General NLP:
   * [Recent trends in deep learning based natural language processing](https://arxiv.org/pdf/1708.02709.pdf) (IEEE Computational intelligence magazine, 2018) 
-
 * Sentiment Analysis:
   * [Deep learning for sentiment analysis: A survey](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf) (Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
   * [Deep learning for aspect-based sentiment analysis: a comparative review](https://www.sciencedirect.com/science/article/pii/S0957417418306456) (Expert Systems with Applications, 2019)
-
 * Named Entity Recognition:
   * [A survey on recent advances in named entity recognition from deep learning models](https://arxiv.org/pdf/1910.11470) (Arxiv, 2019)
   * [A survey on deep learning for named entity recognition](https://arxiv.org/pdf/1812.09449.pdf) (Arxiv, 2018)
-
 * Answer Selection:
   * [A review on deep learning techniques applied to answer selection](https://www.aclweb.org/anthology/C18-1181.pdf) (Proceedings of the 27th International Conference on Computational Linguistics, 2018) 
-
   * NLP based Financial Forecasting:
   * [Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y) (Artificial Intelligence Review, 2018) 
 
