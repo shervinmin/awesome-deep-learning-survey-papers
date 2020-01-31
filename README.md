@@ -13,10 +13,9 @@ With the maturity and rising number of deep learning works in different fields, 
 # Table of Contents  
 
 [1. Computer Vision Related Surveys](#cv)  
-[2. NLP Related Surveys](#nlp)  
-[3. Speech Recognition Related Surveys](#sr)  
-[4. Healthcare Related Surveys](#hc) <br/>
-[5. Other Areas Surveys](#ot)
+[2. NLP Related Surveys](#nlp)   
+[3. Healthcare Related Surveys](#hc) <br/>
+[4. Other Areas Surveys](#ot)
 <br/>
 
 
@@ -78,19 +77,16 @@ NLP tasks have seen a great progress over the past few years with the help of de
 * NLP based Financial Forecasting:
   * [Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y) (Artificial Intelligence Review, 2018) <br/>
 
-### 3. Speech Recognition Related Surveys 
-Speech recognition have also seen.
 
-
-### 4. Healthcare Related Surveys
+### 3. Healthcare Related Surveys
 Deep learning models 
-* Recommender Systems:
+* Health-Record Analysis:
   * [Deep EHR: a survey of recent advances in deep learning techniques for electronic health record (EHR) analysis](https://europepmc.org/article/PMC/6043423) ( IEEE journal of biomedical and health informatics, published, 2017) <br/>
 * Bioinformatics:
   * [A survey of data mining and deep learning in bioinformatics](https://link.springer.com/article/10.1007/s10916-018-1003-9) (Journal of medical systems, 2018)
 
 
-### 5. Other Areas Surveys <br/>
+### 4. Other Areas Surveys <br/>
 Deep learning models have been used in various other fields in recent years. Some of the most popular ones includes:
 * Reinforcement Learning:
   * [Deep reinforcement learning: An overview](https://arxiv.org/abs/1701.07274) (Arxiv, 2017)
