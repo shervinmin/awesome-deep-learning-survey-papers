@@ -56,6 +56,14 @@ Here we provide a list of surveys for deep learning applications in computer vis
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 * General NLP:
   * [Recent trends in deep learning based natural language processing](https://arxiv.org/pdf/1708.02709.pdf) (IEEE Computational intelligence magazine, 2018) 
+* Dialogue Systems, Conversational AI:
+  * [Neural approaches to conversational AI](https://www.nowpublishers.com/article/DownloadSummary/INR-074) (Foundations and Trends® in Information Retrieval, 2019) 
+  * [A survey of natural language generation techniques with a focus on dialogue systems-past, present and future directions](https://arxiv.org/pdf/1812.02303.pdf) (Arxiv, 2018) 
+  * [A survey on dialogue systems: Recent advances and new frontiers](https://arxiv.org/pdf/1711.01731.pdf) (Acm Sigkdd Explorations Newsletter, 2017)
+* Natural Language Generation:
+  * [Survey of the state of the art in natural language generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/download/11173/26378) (Journal of Artificial Intelligence Research, 2018) 
+* Text Summarization:
+  * [Neural abstractive text summarization with sequence-to-sequence models](https://arxiv.org/pdf/1906.00500.pdf) (Arxiv, 2019) 
 * Sentiment Analysis:
   * [Deep learning for sentiment analysis: A survey](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf) (Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
   * [Deep learning for aspect-based sentiment analysis: a comparative review](https://www.sciencedirect.com/science/article/pii/S0957417418306456) (Expert Systems with Applications, 2019)
