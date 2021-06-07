@@ -26,14 +26,14 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, 2019) 
   * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019) 
 * Image Segmentation: 
-  * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, under review, 2020)
+  * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, 2021)
   * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018)
 * Medical Image Segmentation:
   * [Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges](https://link.springer.com/article/10.1007/s10278-019-00227-x) (Journal of Digital Imaging, 2018) 
   * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Elsevier Array, 2019)
   * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, 2018)
 * Biometrics Recognition:
-  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (IJCV, under review, 2019)
+  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, under review, 2021)
   * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
 * Image Super-Resolution:
   * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (Arxiv, 2019)
@@ -55,7 +55,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
 ### 2. NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
 * General NLP:
-  * [Recent trends in deep learning based natural language processing](https://arxiv.org/pdf/1708.02709.pdf) (IEEE Computational intelligence magazine, 2018) 
+  * [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf) (ACM Computing Surveys, 2021)
+  * [Recent trends in deep learning based natural language processing](https://arxiv.org/pdf/1708.02709.pdf) (IEEE Computational intelligence magazine, 2018)  
 * Dialogue Systems, Conversational AI:
   * [Neural approaches to conversational AI](https://www.nowpublishers.com/article/DownloadSummary/INR-074) (Foundations and Trends® in Information Retrieval, 2019) 
   * [A survey of natural language generation techniques with a focus on dialogue systems-past, present and future directions](https://arxiv.org/pdf/1812.02303.pdf) (Arxiv, 2018) 
