@@ -49,6 +49,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, 2019) 
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
+* Fine-Grained Image Analysis:
+  * [Fine-Grained Image Analysis with Deep Learning: A Survey](https://arxiv.org/abs/2111.06119) (Arxiv, 2021) 
 <br/>
 
 
