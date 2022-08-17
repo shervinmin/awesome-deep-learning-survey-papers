@@ -131,7 +131,9 @@ Deep learning models have been used in various other fields in recent years. Som
   * [Deep learning for mobile multimedia: A survey](https://www.researchgate.net/profile/Minh_Dao11/publication/318081382_Deep_Learning_for_Mobile_Multimedia_A_Survey/links/59e3f9bd0f7e9b97fbeb0989/Deep-Learning-for-Mobile-Multimedia-A-Survey.pdf) ( ACM Transactions on Multimedia Computing, Communications, and Applications, 2017)
 * Graphs:
   * [Deep learning on graphs: A survey](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82) (Arxiv, 2018)
+  * [Graph embedding techniques, applications, and performance: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0950705118301540) (Knowledge-Based Systems, 2018)
 * Multimodal Learning:
   * [Deep multimodal learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/abstract/document/8103116/) (IEEE Signal Processing Magazine, 2017)
+  * [Deep multimodal representation learning: A survey](https://ieeexplore.ieee.org/abstract/document/8715409/) (IEEE Access, 2019)
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, 2018) 
