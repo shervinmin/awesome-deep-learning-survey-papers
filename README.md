@@ -34,7 +34,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Elsevier Array, 2019)
   * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, 2018)
 * Biometrics Recognition:
-  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, under review, 2021)
+  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, 2022)
   * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
 * Image Super-Resolution:
   * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (PAMI, 2020)
@@ -53,6 +53,7 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, 2019) 
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
+  * [Generative adversarial networks: A survey toward private and secure applications](https://dl.acm.org/doi/abs/10.1145/3459992) (ACM CSUR, 2021) 
 <br/>
 
 
