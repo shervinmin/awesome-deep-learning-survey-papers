@@ -47,13 +47,13 @@ Here we provide a list of surveys for deep learning applications in computer vis
 * Action Recognition:
   * [Going deeper into action recognition: A survey](https://arxiv.org/pdf/1605.04988.pdf) (Image and vision computing, 2017)
   * [Human action recognition and prediction: A survey](https://link.springer.com/article/10.1007/s11263-022-01594-9) (IJCV, 2022)
-* Human Motion Recognition:
-  * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
   * [Generative adversarial networks: A survey toward private and secure applications](https://dl.acm.org/doi/abs/10.1145/3459992) (ACM CSUR, 2021) 
 * Image Captioning:
   * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) (ACM Computing Surveys, 2019) 
+* Human Motion Recognition:
+  * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
 * Neural Rendering:
   * [State of the Art on Neural Rendering](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14022) (Computer Graphics Forum, 2020)
 <br/>
