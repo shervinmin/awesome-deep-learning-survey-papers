@@ -41,10 +41,12 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [A deep journey into super-resolution: A survey](https://dl.acm.org/doi/abs/10.1145/3390462) (ACM CSUR, 2020)
 * Face Recognition:
   * [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655.pdf) (Arxiv, 2019)
+  * [Face recognition systems: A survey](https://www.mdpi.com/1424-8220/20/2/342) (Sensors, 2020)
 * Facial Expression Recognition:
   * [Deep facial expression recognition: A survey](https://arxiv.org/pdf/1804.08348.pdf) (Arxiv, 2019)
 * Action Recognition:
   * [Going deeper into action recognition: A survey](https://arxiv.org/pdf/1605.04988.pdf) (Image and vision computing, 2017)
+  * [Human action recognition and prediction: A survey](https://link.springer.com/article/10.1007/s11263-022-01594-9) (IJCV, 2022)
 * Human Motion Recognition:
   * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
 * Image Captioning:
