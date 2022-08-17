@@ -33,15 +33,15 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges](https://link.springer.com/article/10.1007/s10278-019-00227-x) (Journal of Digital Imaging, 2018) 
   * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Elsevier Array, 2019)
   * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, 2018)
+* Face Recognition:
+  * [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655.pdf) (Arxiv, 2019)
+  * [Face recognition systems: A survey](https://www.mdpi.com/1424-8220/20/2/342) (Sensors, 2020)
 * Biometrics Recognition:
   * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, 2022)
   * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
 * Image Super-Resolution:
   * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (PAMI, 2020)
   * [A deep journey into super-resolution: A survey](https://dl.acm.org/doi/abs/10.1145/3390462) (ACM CSUR, 2020)
-* Face Recognition:
-  * [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655.pdf) (Arxiv, 2019)
-  * [Face recognition systems: A survey](https://www.mdpi.com/1424-8220/20/2/342) (Sensors, 2020)
 * Facial Expression Recognition:
   * [Deep facial expression recognition: A survey](https://arxiv.org/pdf/1804.08348.pdf) (Arxiv, 2019)
 * Action Recognition:
@@ -49,11 +49,13 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Human action recognition and prediction: A survey](https://link.springer.com/article/10.1007/s11263-022-01594-9) (IJCV, 2022)
 * Human Motion Recognition:
   * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
-* Image Captioning:
-  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, 2019) 
 * GANs:
   * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
   * [Generative adversarial networks: A survey toward private and secure applications](https://dl.acm.org/doi/abs/10.1145/3459992) (ACM CSUR, 2021) 
+* Image Captioning:
+  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) (ACM Computing Surveys, 2019) 
+* Neural Rendering:
+  * [State of the Art on Neural Rendering](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14022) (Computer Graphics Forum, 2020)
 <br/>
 
 
