@@ -78,6 +78,7 @@ NLP tasks have seen a great progress over the past few years with the help of de
 * Sentiment Analysis:
   * [Deep learning for sentiment analysis: A survey](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf) (Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
   * [Deep learning for aspect-based sentiment analysis: a comparative review](https://www.sciencedirect.com/science/article/pii/S0957417418306456) (Expert Systems with Applications, 2019)
+  * [A survey of sentiment analysis in social media](https://link.springer.com/article/10.1007/s10115-018-1236-4)(Knowledge and Information Systems, 2019)
 * Named Entity Recognition:
   * [A survey on recent advances in named entity recognition from deep learning models](https://arxiv.org/pdf/1910.11470) (Arxiv, 2019)
   * [A survey on deep learning for named entity recognition](https://arxiv.org/pdf/1812.09449.pdf) (Arxiv, 2018)
