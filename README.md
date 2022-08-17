@@ -37,7 +37,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, under review, 2021)
   * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
 * Image Super-Resolution:
-  * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (Arxiv, 2019)
+  * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (PAMI, 2020)
+  * [A deep journey into super-resolution: A survey](https://dl.acm.org/doi/abs/10.1145/3390462) (ACM CSUR, 2020)
 * Face Recognition:
   * [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655.pdf) (Arxiv, 2019)
 * Facial Expression Recognition:
