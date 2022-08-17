@@ -24,7 +24,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
 * Object Detection:
   * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, 2019) 
   * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, 2019) 
-  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019) 
+  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019)
+  * [Recent advances in deep learning for object detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231220301430) (Neurocomputing, 2020)
 * Image Segmentation: 
   * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, 2021)
   * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018)
