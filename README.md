@@ -24,7 +24,8 @@ Here we provide a list of surveys for deep learning applications in computer vis
 * Object Detection:
   * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, 2019) 
   * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, 2019) 
-  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019) 
+  * [A Survey of Deep Learning-Based Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825470) (IEEE Access, 2019)
+  * [Recent advances in deep learning for object detection](https://www.sciencedirect.com/science/article/abs/pii/S0925231220301430) (Neurocomputing, 2020)
 * Image Segmentation: 
   * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf) (IEEE PAMI, 2021)
   * [A survey on deep learning techniques for image and video semantic segmentation](https://e-tarjome.com/storage/panel/fileuploads/2019-06-15/1560581890_E11312-e-tarjome.pdf) (Applied Soft Computing, 2018)
@@ -32,25 +33,31 @@ Here we provide a list of surveys for deep learning applications in computer vis
   * [Deep Learning Techniques for Medical Image Segmentation: Achievements and Challenges](https://link.springer.com/article/10.1007/s10278-019-00227-x) (Journal of Digital Imaging, 2018) 
   * [A review: Deep learning for medical image segmentation using multi-modality fusion](https://www.sciencedirect.com/science/article/pii/S2590005619300049) (Elsevier Array, 2019)
   * [Automatic breast ultrasound image segmentation: A survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.01472.pdf) (Pattern Recognition, 2018)
-* Biometrics Recognition:
-  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, under review, 2021)
-  * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
-* Image Super-Resolution:
-  * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (Arxiv, 2019)
 * Face Recognition:
   * [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655.pdf) (Arxiv, 2019)
+  * [Face recognition systems: A survey](https://www.mdpi.com/1424-8220/20/2/342) (Sensors, 2020)
+* Biometrics Recognition:
+  * [Biometric Recognition Using Deep Learning: A Survey](https://arxiv.org/pdf/1912.00271.pdf) (AIRE, 2022)
+  * [Deep learning for biometrics: A survey](https://dl.acm.org/doi/abs/10.1145/3190618) (ACM CSUR, 2018)
+* Image Super-Resolution:
+  * [Deep learning for image super-resolution: A survey](https://arxiv.org/pdf/1902.06068.pdf) (PAMI, 2020)
+  * [A deep journey into super-resolution: A survey](https://dl.acm.org/doi/abs/10.1145/3390462) (ACM CSUR, 2020)
 * Facial Expression Recognition:
   * [Deep facial expression recognition: A survey](https://arxiv.org/pdf/1804.08348.pdf) (Arxiv, 2019)
 * Action Recognition:
   * [Going deeper into action recognition: A survey](https://arxiv.org/pdf/1605.04988.pdf) (Image and vision computing, 2017)
-* Human Motion Recognition:
-  * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
-* Image Captioning:
-  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) ( ACM Computing Surveys, 2019) 
+  * [Human action recognition and prediction: A survey](https://link.springer.com/article/10.1007/s11263-022-01594-9) (IJCV, 2022)
 * GANs:
-  * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019) 
+  * [Generative Adversarial Networks: A Survey and Taxonomy](https://arxiv.org/pdf/1906.01529.pdf) (Arxiv, 2019)
+  * [Generative adversarial networks: A survey toward private and secure applications](https://dl.acm.org/doi/abs/10.1145/3459992) (ACM CSUR, 2021)
 * Fine-Grained Image Analysis:
   * [Fine-Grained Image Analysis with Deep Learning: A Survey](https://arxiv.org/abs/2111.06119) (Arxiv, 2021) 
+* Image Captioning:
+  * [A comprehensive survey of deep learning for image captioning](https://arxiv.org/pdf/1810.04020.pdf) (ACM Computing Surveys, 2019) 
+* Human Motion Recognition:
+  * [RGB-D-based human motion recognition with deep learning: A survey](https://arxiv.org/pdf/1711.08362.pdf) (Computer Vision and Image Understanding, 2018)
+* Neural Rendering:
+  * [State of the Art on Neural Rendering](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14022) (Computer Graphics Forum, 2020)
 <br/>
 
 
@@ -73,6 +80,7 @@ NLP tasks have seen a great progress over the past few years with the help of de
 * Sentiment Analysis:
   * [Deep learning for sentiment analysis: A survey](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf) (Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2018) 
   * [Deep learning for aspect-based sentiment analysis: a comparative review](https://www.sciencedirect.com/science/article/pii/S0957417418306456) (Expert Systems with Applications, 2019)
+  * [A survey of sentiment analysis in social media](https://link.springer.com/article/10.1007/s10115-018-1236-4)(Knowledge and Information Systems, 2019)
 * Named Entity Recognition:
   * [A survey on recent advances in named entity recognition from deep learning models](https://arxiv.org/pdf/1910.11470) (Arxiv, 2019)
   * [A survey on deep learning for named entity recognition](https://arxiv.org/pdf/1812.09449.pdf) (Arxiv, 2018)
@@ -125,7 +133,9 @@ Deep learning models have been used in various other fields in recent years. Som
   * [Deep learning for mobile multimedia: A survey](https://www.researchgate.net/profile/Minh_Dao11/publication/318081382_Deep_Learning_for_Mobile_Multimedia_A_Survey/links/59e3f9bd0f7e9b97fbeb0989/Deep-Learning-for-Mobile-Multimedia-A-Survey.pdf) ( ACM Transactions on Multimedia Computing, Communications, and Applications, 2017)
 * Graphs:
   * [Deep learning on graphs: A survey](https://arxiv.org/pdf/1812.04202.pdf%E3%80%82) (Arxiv, 2018)
+  * [Graph embedding techniques, applications, and performance: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0950705118301540) (Knowledge-Based Systems, 2018)
 * Multimodal Learning:
   * [Deep multimodal learning: A survey on recent advances and trends](https://ieeexplore.ieee.org/abstract/document/8103116/) (IEEE Signal Processing Magazine, 2017)
+  * [Deep multimodal representation learning: A survey](https://ieeexplore.ieee.org/abstract/document/8715409/) (IEEE Access, 2019)
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, 2018) 
