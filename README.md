@@ -137,3 +137,5 @@ Deep learning models have been used in various other fields in recent years. Som
   * [Deep multimodal representation learning: A survey](https://ieeexplore.ieee.org/abstract/document/8715409/) (IEEE Access, 2019)
 * Agriculture:
   * [Deep learning in agriculture: A survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf) (Computers and electronics in agriculture, 2018) 
+* Efficiency in Deep Learning:
+  * [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962) (arXiv, 2021)
