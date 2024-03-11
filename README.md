@@ -21,6 +21,10 @@ With the maturity and rising number of deep learning works in different fields, 
 
 ### 1. Computer Vision Related Surveys
 Here we provide a list of surveys for deep learning applications in computer vision.
+* Diffusion Models in Vision:
+  * [Diffusion models in vision: A survey](https://ieeexplore.ieee.org/abstract/document/10081412) (PAMI, 2023) 
+  * [Text-to-image diffusion model in generative ai: A survey](https://arxiv.org/abs/2303.07909) (arXiv, 2023)
+  * [Diffusion models: A comprehensive survey of methods and applications](https://dl.acm.org/doi/abs/10.1145/3626235) (ACM CSUR, 2023)
 * Object Detection:
   * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf) (IJCV, 2019) 
   * [Object Detection with Deep Learning: A Review](https://arxiv.org/pdf/1807.05511.pdf) (IEEE TNNLS, 2019) 
