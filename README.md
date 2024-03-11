@@ -65,6 +65,9 @@ Here we provide a list of surveys for deep learning applications in computer vis
 
 ### 2. NLP Related Surveys 
 NLP tasks have seen a great progress over the past few years with the help of deep neural architectures, such as attentional LSTM, Transformer, BERT, GPT models, and XL-Net. 
+* Large Language Models:
+  * [Large language models: A survey](https://arxiv.org/abs/2402.06196) (arXiv, 2024)
+  * [A survey of large language models](https://arxiv.org/abs/2303.18223) (arXiv, 2023)  
 * General NLP:
   * [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf) (ACM Computing Surveys, 2021)
   * [Recent trends in deep learning based natural language processing](https://arxiv.org/pdf/1708.02709.pdf) (IEEE Computational intelligence magazine, 2018)  
